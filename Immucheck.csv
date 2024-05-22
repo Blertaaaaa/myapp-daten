@@ -1,4 +1,5 @@
-username,Vaccination Date,Vaccine/Drug,Symptoms,Follow-up Date
-agnesa,2024-05-22,Boostrix,keine,2024-05-22
-blerta,2024-05-22,fsme,halsschmerzen,2024-05-22
-blerta,2024-05-22,Boostrix,kopfschmerzen,2024-08-14
+username,Vaccination Date,Vaccine/Drug,Symptoms,Follow-up Date,Benutzername,Datum der Impfung,Impfstoff/Wirkstoff,Symptome,Nachimpfungsdatum
+agnesa,2024-05-22,Boostrix,keine,2024-05-22,,,,,
+blerta,2024-05-22,fsme,halsschmerzen,2024-05-22,,,,,
+blerta,2024-05-22,Boostrix,kopfschmerzen,2024-08-14,,,,,
+,,,,,shnau,2024-05-19,FSME,schmerzen arm ,2026-06-24
