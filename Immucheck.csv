@@ -1,2 +1,6 @@
-username,Vaccination Date,Vaccine/Drug,Symptoms,Follow-up Date,Benutzername,Datum der Impfung,Impfstoff/Wirkstoff,Symptome,Nachimpfungsdatum,vaccination_stare,vaccine_drug,symptoms,follow_up_date
-
+username,Datum der Impfung,Impfstoff/Wirkstoff,Symptome,Nachimpfungsdatum,Vaccination Date,Vaccine/Drug,Symptoms,Follow-up Date,vaccination_stare,vaccine_drug,symptoms,follow_up_date
+agnesa,2024-05-22,Boostrix,Kopfschmerzen,2024-05-22,,,,,,,,
+agnesa,,,,,2024-05-22,FSME,kopfschmerzen,2024-05-22,,,,
+agnesa,,,,,2024-05-22,FSME,kopfschmerzen,2024-05-22,,,,
+blerta,,,,,2024-05-22,boostrix,keine,2024-05-22,,,,
+agnesa,,,,,,,,,2024-05-22,boostrix,Fieber,2024-05-22
